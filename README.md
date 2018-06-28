@@ -1,1 +1,2 @@
-study-helper
+# study-helper
+問題分の一部をCtrl+C(コピー)すると、過去問から一致する問題を見つけて表示するツール
