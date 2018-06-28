@@ -6,7 +6,7 @@
 
 - Linux環境の場合クリップボードを拡張するツールが必要。
 
-"sudo apt-get install xclip" or "sudo apt-get install xsel"
+`sudo apt-get install xclip` or `sudo apt-get install xsel`
 
 
 ## 使用ライブラリ
